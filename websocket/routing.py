@@ -1,0 +1,1 @@
+from apps.notifications.routing import websocket_urlpatterns
